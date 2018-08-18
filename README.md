@@ -1,14 +1,14 @@
-#Udacity Front-End Web Developer
-#Nanodegree Program (FEND)
+# Udacity Front-End Web Developer
+# Nanodegree Program (FEND)
 
-#Neighborhood Map (React)
+# Neighborhood Map (React)
 
-About
+## About
   This site displays wine tasting venues in the California Central Valley.  The user ia able to narrow down the choices between retail loactions and wineries.  The user is able to get the address and temperature of the loaction.
 
-Installation
+## Installation
 
-Clone from:
+Clone from: https://github.com/slund74/FEND-myNeighborhood-maps.git
 
 Run the following commands from the application directory (node.js is a prerequisite)
   - npm install
@@ -16,7 +16,7 @@ Run the following commands from the application directory (node.js is a prerequi
   - npm start
   - Navigate to http://localhost:3000/
 
-Resources used:
+## Resources used:
   - react-google-maps (https://github.com/tomchentw/react-google-maps)
   - Bootstrap (https://getbootstrap.com/)
   - OpenWeatherMap Weather API (https://openweathermap.org/api)
