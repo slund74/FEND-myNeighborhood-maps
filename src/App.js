@@ -54,6 +54,11 @@ openInfoWindow = (index, zip) => {
 	this.getWeather(zip);
 }
 
+//https://discussions.udacity.com/t/handling-google-maps-in-async-and-fallback/34282/53
+gm_authFailure = () => {
+    alert("Google Map authorization error. Please try refreshing the page.");
+}
+
   render() {
     return (
     	<div className="App">

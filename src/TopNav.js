@@ -6,9 +6,9 @@ class TopNav extends Component {
   render() {
     return (
 
-      <nav className="navbar navbar-light bg-light">
+      <header className="navbar navbar-light bg-light" tabIndex = "0">
           <span className="navbar-brand mb-0 h1 ">Central Valley Wine Drinkers</span>
-      </nav>
+      </header>
 
     )
   }
